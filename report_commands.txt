@@ -1,0 +1,12 @@
+  398  git commit -m "Add diskusage file"
+  400  git checkout master
+  401  git commit svaga.txt
+  402  git add svaga.txt
+  403  git commit -m "Add svaga"
+  404  git log --oneline -1
+  407  git add forgotten.txt
+  408  git commit --amend --no-edit 
+  409  git log --oneline -1
+  411  git add mend.txt 
+  412  git add amend.txt 
+  413  git commit -m "Add hash"
