@@ -1,0 +1,5 @@
+21:30  up  8:03, 2 users, load averages: 3,24 2,77 2,75
+USER       TTY      FROM    LOGIN@  IDLE WHAT
+fedoragalc console  -      13:29    8:01 -
+fedoragalc s000     -      19:58       - w
+uid=501(fedoragalcov) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),98(_lpadmin),33(_appstore),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae),701(com.apple.sharepoint.group.1)
